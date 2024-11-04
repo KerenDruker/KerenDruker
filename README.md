@@ -1,6 +1,3 @@
-Here’s a GitHub README draft that highlights your professional skills and projects, integrating a sleek design and emojis to make it engaging and impressive for job interviews:
-
----
 
 # 👋 Hi, I'm Keren Druker
 
